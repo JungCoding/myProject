@@ -1,2 +1,2 @@
 # new_repo
-Python_of_Computing
+Lecture for Git Test
