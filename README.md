@@ -1,2 +1,2 @@
-# new_repo
+# myProject
 Lecture for Git Test
